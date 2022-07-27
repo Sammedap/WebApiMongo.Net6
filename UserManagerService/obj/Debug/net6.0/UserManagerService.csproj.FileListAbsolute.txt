@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\UserManagerService\obj\Debug\net6.0\UserManagerService.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\UserManagerService\obj\Debug\net6.0\UserManagerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\UserManagerService\obj\Debug\net6.0\UserManagerService.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UserManagerService\obj\Debug\net6.0\UserManagerService.AssemblyInfo.cs
+C:\Users\User\source\repos\UserManagerService\obj\Debug\net6.0\UserManagerService.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UserManagerService\bin\Debug\net6.0\UserManagerService.deps.json
+C:\Users\User\source\repos\UserManagerService\bin\Debug\net6.0\UserManagerService.dll
+C:\Users\User\source\repos\UserManagerService\bin\Debug\net6.0\UserManagerService.pdb
+C:\Users\User\source\repos\UserManagerService\bin\Debug\net6.0\UserModel.dll
+C:\Users\User\source\repos\UserManagerService\bin\Debug\net6.0\UserModel.pdb
+C:\Users\User\source\repos\UserManagerService\obj\Debug\net6.0\UserManagerService.csproj.CopyComplete
+C:\Users\User\source\repos\UserManagerService\obj\Debug\net6.0\UserManagerService.dll
+C:\Users\User\source\repos\UserManagerService\obj\Debug\net6.0\refint\UserManagerService.dll
+C:\Users\User\source\repos\UserManagerService\obj\Debug\net6.0\UserManagerService.pdb
+C:\Users\User\source\repos\UserManagerService\obj\Debug\net6.0\ref\UserManagerService.dll
+D:\Working Folder\WebApiMongo.Net6\UserManagerService\bin\Debug\net6.0\UserManagerService.deps.json
+D:\Working Folder\WebApiMongo.Net6\UserManagerService\bin\Debug\net6.0\UserManagerService.dll
+D:\Working Folder\WebApiMongo.Net6\UserManagerService\bin\Debug\net6.0\UserManagerService.pdb
+D:\Working Folder\WebApiMongo.Net6\UserManagerService\bin\Debug\net6.0\UserModel.dll
+D:\Working Folder\WebApiMongo.Net6\UserManagerService\bin\Debug\net6.0\UserModel.pdb
+D:\Working Folder\WebApiMongo.Net6\UserManagerService\obj\Debug\net6.0\UserManagerService.csproj.AssemblyReference.cache
+D:\Working Folder\WebApiMongo.Net6\UserManagerService\obj\Debug\net6.0\UserManagerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working Folder\WebApiMongo.Net6\UserManagerService\obj\Debug\net6.0\UserManagerService.AssemblyInfoInputs.cache
+D:\Working Folder\WebApiMongo.Net6\UserManagerService\obj\Debug\net6.0\UserManagerService.AssemblyInfo.cs
+D:\Working Folder\WebApiMongo.Net6\UserManagerService\obj\Debug\net6.0\UserManagerService.csproj.CoreCompileInputs.cache
+D:\Working Folder\WebApiMongo.Net6\UserManagerService\obj\Debug\net6.0\UserManagerService.csproj.CopyComplete
+D:\Working Folder\WebApiMongo.Net6\UserManagerService\obj\Debug\net6.0\UserManagerService.dll
+D:\Working Folder\WebApiMongo.Net6\UserManagerService\obj\Debug\net6.0\refint\UserManagerService.dll
+D:\Working Folder\WebApiMongo.Net6\UserManagerService\obj\Debug\net6.0\UserManagerService.pdb
+D:\Working Folder\WebApiMongo.Net6\UserManagerService\obj\Debug\net6.0\ref\UserManagerService.dll

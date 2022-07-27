@@ -1,0 +1,24 @@
+C:\Users\User\source\repos\UserModel\bin\Debug\net6.0\UserModel.deps.json
+C:\Users\User\source\repos\UserModel\bin\Debug\net6.0\UserModel.dll
+C:\Users\User\source\repos\UserModel\bin\Debug\net6.0\UserModel.pdb
+C:\Users\User\source\repos\UserModel\obj\Debug\net6.0\UserModel.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\UserModel\obj\Debug\net6.0\UserModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\UserModel\obj\Debug\net6.0\UserModel.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UserModel\obj\Debug\net6.0\UserModel.AssemblyInfo.cs
+C:\Users\User\source\repos\UserModel\obj\Debug\net6.0\UserModel.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UserModel\obj\Debug\net6.0\UserModel.dll
+C:\Users\User\source\repos\UserModel\obj\Debug\net6.0\refint\UserModel.dll
+C:\Users\User\source\repos\UserModel\obj\Debug\net6.0\UserModel.pdb
+C:\Users\User\source\repos\UserModel\obj\Debug\net6.0\ref\UserModel.dll
+D:\Working Folder\WebApiMongo.Net6\UserModel\bin\Debug\net6.0\UserModel.deps.json
+D:\Working Folder\WebApiMongo.Net6\UserModel\bin\Debug\net6.0\UserModel.dll
+D:\Working Folder\WebApiMongo.Net6\UserModel\bin\Debug\net6.0\UserModel.pdb
+D:\Working Folder\WebApiMongo.Net6\UserModel\obj\Debug\net6.0\UserModel.csproj.AssemblyReference.cache
+D:\Working Folder\WebApiMongo.Net6\UserModel\obj\Debug\net6.0\UserModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working Folder\WebApiMongo.Net6\UserModel\obj\Debug\net6.0\UserModel.AssemblyInfoInputs.cache
+D:\Working Folder\WebApiMongo.Net6\UserModel\obj\Debug\net6.0\UserModel.AssemblyInfo.cs
+D:\Working Folder\WebApiMongo.Net6\UserModel\obj\Debug\net6.0\UserModel.csproj.CoreCompileInputs.cache
+D:\Working Folder\WebApiMongo.Net6\UserModel\obj\Debug\net6.0\UserModel.dll
+D:\Working Folder\WebApiMongo.Net6\UserModel\obj\Debug\net6.0\refint\UserModel.dll
+D:\Working Folder\WebApiMongo.Net6\UserModel\obj\Debug\net6.0\UserModel.pdb
+D:\Working Folder\WebApiMongo.Net6\UserModel\obj\Debug\net6.0\ref\UserModel.dll
