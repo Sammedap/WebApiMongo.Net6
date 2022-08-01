@@ -29,7 +29,8 @@ namespace UserManagerService.UserManagerService
         public IQueryable<TDocument> Get()
         {
             //List<User> lstUser = _users.Find(user => true).ToList();
-            return _collection.AsQueryable();
+            IQueryable<TDocument> doc = _collection.AsQueryable();
+            return doc;
         }
 
         public virtual TDocument Get(string Id)
@@ -39,7 +40,8 @@ namespace UserManagerService.UserManagerService
             var objectId = new ObjectId(Id);
             var filter = Builders<TDocument>.Filter.Eq(x => x.Id, objectId);
 
-            return _collection.Find(filter).SingleOrDefault();
+            TDocument doc = _collection.Find(filter).SingleOrDefault();
+            return doc;
         }
 
         public void Remove(string Id)
